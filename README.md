@@ -1,2 +1,12 @@
-# fantastic-eureka
-Final Project for Intelligent Data Analysis and Machine Learning course, at University of Potsdam SoSe 23
+# Spam
+Final Project for Intelligent Data Analysis and Machine Learning course, at University of Potsdam SoSe 23.
+
+## Introduction
+The objective is to develop a machine learning model that can accurately classify incoming emails as either spam or non-spam (legitimate). The dataset provided for this task consists of 10,000 training emails in the form of a bag-of-words representation, where each email is associated with a class label (+1 for spam and -1 for non-spam).
+
+## Usage
+
+```
+data_exploration.ipynb
+```
+This notebook is used to explore the dataset and then create two datasets; one containing BOW representation and another containing TF-IDF representation.
