@@ -27,4 +27,6 @@ neural_networkss.ipynb
 This notebook is used to find the best configuration of Filter using Neural Networkss.
 
 
+## Results
 
+Best model - Random Forest on BOW data
