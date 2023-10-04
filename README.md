@@ -11,9 +11,20 @@ data_exploration.ipynb
 ```
 This notebook is used to explore the dataset and then create two datasets; one containing BOW representation and another containing TF-IDF representation.
 
-
 ```
 decision_trees.ipynb
 ```
 This notebook is used to find the best configuration of Filter using Decision Trees.
+
+```
+random_forests.ipynb
+```
+This notebook is used to find the best configuration of Filter using Random Forests.
+
+```
+neural_networkss.ipynb
+```
+This notebook is used to find the best configuration of Filter using Neural Networkss.
+
+
 
