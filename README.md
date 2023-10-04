@@ -10,3 +10,10 @@ The objective is to develop a machine learning model that can accurately classif
 data_exploration.ipynb
 ```
 This notebook is used to explore the dataset and then create two datasets; one containing BOW representation and another containing TF-IDF representation.
+
+
+```
+decision_trees.ipynb
+```
+This notebook is used to find the best configuration of Filter using Decision Trees.
+
